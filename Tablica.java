@@ -29,5 +29,6 @@ for(int i=0; i< tab.length ; i++ ) {
 	if (a == tab[t]);
 		wys++;}
 System.out.println(wys); //Liczy wystpienie liczby 1 
+	
 }
 }
